@@ -1,0 +1,14 @@
+{
+  "name": "morechalk",
+  "version": "1.0.0",
+  "description": "School project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Thiessen",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^2.3.1"
+  }
+}
